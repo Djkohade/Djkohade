@@ -20,6 +20,6 @@ Python、PHP、Css、javaScript、html5、C++、Arduino 代码
 
 3D打印、3D建模、无线电工程、音乐、摄影、视频等创意。
 
-<h3>UZ - 👋 Salom, men @Djkohademan</h3>
+<h3>UZ - 👋 Salom, men @Djkohade</h3>
 Turli sohalarda dasturlash:
 Python, php, Css, javaScript, html5, C++, Arduino CODE
